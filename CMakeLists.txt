@@ -3,6 +3,6 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(helloworld
+add_executable(hello world
         foo.cpp
         README.md)
