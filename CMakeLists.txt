@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(helloworld
         foo.cpp
-        README.md)
+         "hw#1.cpp" HW1".cpp
